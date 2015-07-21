@@ -8,13 +8,11 @@ To start developing in Android Studio, group all of the files EXCEPT for "LICENS
 
 # Screenshots
 --------------
-
 <img src="SCREENSHOT/Screenshot-1.png" height="400" alt="Screenshot-1"/> 
-<img src="SCREENSHOT/Sreenshot-2.png" height="400" alt="Screenshot-2"/> 
+<img src="SCREENSHOT/Screenshot-2.png" height="400" alt="Screenshot-2"/> 
 
 #Credits
 --------------
-
 * Inspired by Ravi Tamada's article at [AndroidHive](http://www.androidhive.info/2015/04/android-getting-started-with-material-design/)
 * Inspired by [Antonio Leiva](http://antonioleiva.com/material-design-everywhere/) on using AppCompat21
 
