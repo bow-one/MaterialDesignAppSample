@@ -1,14 +1,24 @@
 # MaterialDesignAppSample
+========================
 A sample Android application that implements Google's Material Design design principles, such as the slide-out navigation drawer and FAB.
 
-To open and start developing this in Android Studio, move LICENSE and README somewhere else and group all of the other files into one folder.
+# Getting Started
+========================
+To start developing in Android Studio, group all of the files EXCEPT for "LICENSE", "README", and "SCREENSHOT" into one folder. Then simply "Import Project" in Android Studio by navigating and selecting the folder you should have created.
+
+# Screenshots
+========================
+<img src="SCREENSHOT/Screenshot-1.png" height="400" alt="Screenshot-1"/> 
+<img src="SCREENSHOT/Sreenshot-2.png" height="400" alt="Screenshot-2"/> 
 
 #Credits
-Inspired by Ravi Tamada's article at [AndroidHive](http://www.androidhive.info/2015/04/android-getting-started-with-material-design/)
-Inspired by [Antonio Leiva](http://antonioleiva.com/material-design-everywhere/) on using AppCompat21
+========================
+* Inspired by Ravi Tamada's article at [AndroidHive](http://www.androidhive.info/2015/04/android-getting-started-with-material-design/)
+* Inspired by [Antonio Leiva](http://antonioleiva.com/material-design-everywhere/) on using AppCompat21
 
 
 #Copyright
+========================
 Copyright 2015 Chin Bo Wen. All rights reserved. 
 
 Licensed under the Apache License, Version 2.0 (the "License");
