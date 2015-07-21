@@ -1,4 +1,4 @@
-# MaterialDesignAppSample
+# Material Design Sample Application
 --------------
 A sample Android application that implements Google's Material Design design principles, such as the slide-out navigation drawer and FAB.
 
