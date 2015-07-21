@@ -9,11 +9,11 @@
         <dex dex="/Users/bowenchin/AndroidStudioProjects/MaterialApp/app/build/intermediates/pre-dexed/debug/classes-a2993e05df761efd3f416e9614b99d9acbd150be.jar" />
     </item>
     <item
-        jar="/Users/bowenchin/AndroidStudioProjects/MaterialApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jar="/Users/bowenchin/AndroidStudioProjects/MaterialApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="/Users/bowenchin/AndroidStudioProjects/MaterialApp/app/build/intermediates/pre-dexed/debug/classes-0c94aa5585f55e9189d857e57b000c7246842482.jar" />
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/bowenchin/AndroidStudioProjects/MaterialApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-bcd14268f2233f38a4a634161a117800dda7ffad.jar" />
     </item>
     <item
         jar="/Users/bowenchin/AndroidStudioProjects/MaterialApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
@@ -23,11 +23,11 @@
         <dex dex="/Users/bowenchin/AndroidStudioProjects/MaterialApp/app/build/intermediates/pre-dexed/debug/classes-b249b21199f515215cf9326a665b9906fdad8cf6.jar" />
     </item>
     <item
-        jar="/Users/bowenchin/AndroidStudioProjects/MaterialApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jar="/Users/bowenchin/AndroidStudioProjects/MaterialApp/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/Users/bowenchin/AndroidStudioProjects/MaterialApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-bcd14268f2233f38a4a634161a117800dda7ffad.jar" />
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/bowenchin/AndroidStudioProjects/MaterialApp/app/build/intermediates/pre-dexed/debug/classes-b9c38e32d7f2e9b8abaa8ad11cdbf051b218d620.jar" />
     </item>
     <item
         jar="/Users/bowenchin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
@@ -35,6 +35,13 @@
         revision="22.0.1"
         sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
         <dex dex="/Users/bowenchin/AndroidStudioProjects/MaterialApp/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-a9629ca69e85491ea24182506748a0177b760d3b.jar" />
+    </item>
+    <item
+        jar="/Users/bowenchin/AndroidStudioProjects/MaterialApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/bowenchin/AndroidStudioProjects/MaterialApp/app/build/intermediates/pre-dexed/debug/classes-0c94aa5585f55e9189d857e57b000c7246842482.jar" />
     </item>
 
 </items>
